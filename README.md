@@ -19,7 +19,7 @@ $ popd
 # 実行方法
 
 ```shell
-$ cd ${BUILDDIR]
+$ cd ${BUILDDIR}
 $ ./src/draw -i <glTFのファイルパス> -s ${SOURCEDIR}/shaders
 ```
 
